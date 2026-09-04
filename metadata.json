@@ -1,0 +1,6 @@
+{
+  "name": "D. XIF4T - Media Downloader",
+  "description": "Fast 2K QHD, 1080p Full HD video and MP3 audio downloader for YouTube, TikTok without watermark, and Facebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
